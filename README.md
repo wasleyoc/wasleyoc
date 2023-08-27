@@ -41,5 +41,5 @@
 [![Steam](https://img.shields.io/badge/Steam-black?style=flat-square&logo=steam)](https://steamcommunity.com/id/wasleyfps)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://linkedin.com/in/wasleyfps)
 
-![Snake animation](https://github.com/brunorafaeI/brunorafaeI/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/wasleyfps/brunorafaeI/blob/output/github-contribution-grid-snake.svg)
 </div>
