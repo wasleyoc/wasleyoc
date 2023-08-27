@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD43D&lines=Wasley+aqui!+Prazer+em+conhece-lo!+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD43D&lines=Wasley+aqui!+Prazer+em+conhece-lo(a)!+%E2%9A%A1)](https://git.io/typing-svg)
 
 <div>
  <p text-align="left">🔭 Jovem Aprendiz na Programação</p>
