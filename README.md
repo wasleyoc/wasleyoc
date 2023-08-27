@@ -11,8 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasleyfps&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wasleyfps&bg_color=blue&color=blue&line=1572B6&point=1572B6&area=true&hide_border=true)](https://github.com/wasleyfps/github-readme-activity-graph)
-
    
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=carolbarbosa101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
