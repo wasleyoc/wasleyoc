@@ -10,17 +10,12 @@
 <div align="center">
 
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=oracle&logoColor=E42C2E)
 ![Node](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=2D9EE9)
-<span title="Yeah i know">
-![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows&logoColor=0174CF)
-</span> <span title="Linux with games">
-![Wsl](https://img.shields.io/badge/Wsl-black?style=flat-square&logo=linux) </span>
 <span title="I use brave, btw">
 ![Brave](https://img.shields.io/badge/Brave-black?style=flat-square&logo=brave) </span>
 [![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/arthurfiorette)
-[![Gitlab](https://img.shields.io/badge/Gitlab-black?style=flat-square&logo=gitlab)](https://gitlab.com/arthurfiorette)</div>
+</div>
 
 <br />
 <br />
