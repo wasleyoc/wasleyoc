@@ -1,8 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD43D&lines=Eaeee%2C+Wasley+aqui!+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD43D&lines=Eaeee,+Wasley+aqui!+%E2%9A%A1)](https://git.io/typing-svg)
 
 <div>
- <p text-align="left">🔭 FullStack Developer</p>
- <p>📚 Cursando Análise e desenvolvimento de sistemas na FIAP.</p>
- <p>🌱 Estudando: HTML, CSS, Javascript, Typescript, React.js, React Native, Next.js, Git, Java, Spring, SQL.</p>
- <p>📫 Contate-me : ph23.alves@gmail.com</p>
+ <p text-align="left">🔭 Jovem Aprendiz na Programação</p>
+ <p>📚 Em Andamento...</p>
+ <p>🌱 Estudando: HTML, CSS, Javascript.</p>
 </div> 
