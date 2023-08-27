@@ -40,6 +40,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-black?style=flat-square&logo=twitch&logoColor=9146FF)](https://www.twitch.tv/wasleyfps)
 [![Steam](https://img.shields.io/badge/Steam-black?style=flat-square&logo=steam)](https://steamcommunity.com/id/wasleyfps)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://linkedin.com/in/wasleyfps)
-
-![Snake animation](https://github.com/wasleyfps/wasleyfps/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+  ![Snake animation](https://github.com/wasleyfps/wasleyfps/blob/output/github-contribution-grid-snake.svg)
