@@ -13,6 +13,7 @@
 
 <div align="center">
 
+![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
 ![Node](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=2D9EE9)
