@@ -10,12 +10,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wasleyfps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasleyfps&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-   
+</br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wasleyfps&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
 
 <div align="center">
 
@@ -28,12 +26,8 @@
 [![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/wasleyfps)
 
 </div>
-
-<br />
-<br />
-
 <div align="center">
-
+ 
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/wasleyfps)
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/305756890954989568)
 [![Mail](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](mailto://wasleyoliveiradecarvalho@gmail.com)
