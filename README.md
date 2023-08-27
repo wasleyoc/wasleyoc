@@ -19,7 +19,7 @@
 ![Node](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=2D9EE9)
 ![Brave](https://img.shields.io/badge/Brave-black?style=flat-square&logo=brave) 
-[![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/arthurfiorette)
+[![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/wasleyfps)
 
 </div>
 
