@@ -5,10 +5,7 @@
  <p>📚 Em Andamento...</p>
  <p>🌱 Estudando: HTML, CSS, Javascript.</p>
 </div> 
-<div align="center">
-  <a href="https://github.com/wasleyfps">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wasleyfps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
+
 </br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wasleyfps&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
