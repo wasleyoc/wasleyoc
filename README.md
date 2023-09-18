@@ -5,8 +5,8 @@
  <p>📚 Em Andamento...</p>
  <p>🌱 Estudando: HTML, CSS, Javascript.</p>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact_theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wasleyfps&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
