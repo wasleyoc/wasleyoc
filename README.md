@@ -3,7 +3,7 @@
 <div>
  <p text-align="left">🔭 Jovem Aprendiz na Programação</p>
  <p>📚 Em Andamento...</p>
- <p>🌱 Estudando: HTML, CSS, Javascript.</p>
+ <p>🌱 Estudando: HTML, CSS, Javascript E Python</p>
  
 ![Wasley GitHub stats](https://github-readme-stats.vercel.app/api?username=wasleyfps&show_icons=true&theme=tokyonight)
 ![Wasley Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasleyfps&layout=compact&theme=tokyonight)
