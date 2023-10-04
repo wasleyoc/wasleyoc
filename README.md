@@ -5,6 +5,10 @@
  <p>📚 Em Andamento...</p>
  <p>🌱 Estudando: HTML, CSS, Javascript E Python</p>
 
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wasleyfps&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wasleyfps&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
 <div align="center" display="flex">
   <a href="https://github.com/wasleyfps">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wasleyfps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
