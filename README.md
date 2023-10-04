@@ -5,7 +5,7 @@
  <p>📚 Em Andamento...</p>
  <p>🌱 Estudando: HTML, CSS, Javascript E Python</p>
 
- | [!](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wasleyfps&theme=tokyonight) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wasleyfps&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wasleyfps&theme=tokyonight) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wasleyfps&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 
