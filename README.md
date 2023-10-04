@@ -11,10 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasleyfps&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
- 
-![Wasley GitHub stats](https://github-readme-stats.vercel.app/api?username=wasleyfps&show_icons=true&theme=tokyonight)
-![Wasley Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasleyfps&layout=compact&theme=tokyonight)
-
 </br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wasleyfps&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
