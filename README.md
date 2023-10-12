@@ -16,6 +16,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=2D9EE9)
 ![Brave](https://img.shields.io/badge/Brave-black?style=flat-square&logo=brave) 
 [![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/wasleyfps)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=E34F26) 
 
 </div>
 <div align="center">
