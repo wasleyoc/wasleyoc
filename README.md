@@ -2,17 +2,10 @@
 
 <div>
  <p text-align="left">🔭 Jovem Aprendiz na Programação</p>
- <p>📚 Em Andamento...</p>
+ <p>📚 Engenharia de Software </p>
  <p>🌱 Estudando: HTML, CSS, Javascript E Python</p>
 
- | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasleyfps&theme=tokyonight&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasleyfps&theme=tokyonight&layout=compact)|  
- | ----------- | ----------- |
 
-
-</br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wasleyfps&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 <div align="center">
 
@@ -34,5 +27,3 @@
 [![Steam](https://img.shields.io/badge/Steam-black?style=flat-square&logo=steam)](https://steamcommunity.com/id/wasleyfps)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://linkedin.com/in/wasleyfps)
 </div>
-
-![Snake animation](https://github.com/wasleyfps/wasleyfps/blob/output/github-contribution-grid-snake-dark.svg)
