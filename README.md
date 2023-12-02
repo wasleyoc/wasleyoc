@@ -1,8 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD43D&lines=Wasley+aqui!+Prazer+em+conhece-lo(a)!+%E2%9A%A1)](https://git.io/typing-svg)<img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=wasleyfps&label=&style=flat-square&color=blueviolet" />
 
- <p>🔭 Prodígio na Programação</p>
- <p>📚 Engenharia de Software </p>
- <p>🌱 Estudando: Javascript, Typescript, React, Nodejs, Python & SQL </p>
+🔭 Prodígio na Programação
+
+📚 Engenharia de Software
+
+🌱 Estudando: **Javascript, Typescript, React, Nodejs, Python & SQL**
 
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/wasleyfps)
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/305756890954989568)
@@ -15,7 +17,7 @@
 
 
 
-## 💻 All languages and tools
+## 💻 Todas as linguagens e ferramentas
 Entre meus estudos autodidatas dentro do Youtube, imersões de escolas como Alura e Rocketseat, cursos CRUD, até experiência em projetos pessoais com front-end e faculdade que estudo.
 
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
