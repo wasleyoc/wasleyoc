@@ -2,7 +2,7 @@
 
  <p>🔭 Prodígio na Programação</p>
  <p>📚 Engenharia de Software </p>
- <p>🌱 Estudando: HTML, CSS, Javascript E Python</p>
+ <p>🌱 Estudando: Javascript, Typescript, React, Nodejs, Python </p>
 
 
 
