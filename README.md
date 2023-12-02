@@ -16,11 +16,16 @@
 
 
 ## 💻 All languages and tools
-Among my self-taught studies within Youtube, immersions of schools such as Alura and rocketseat, CRUD courses, even experience within the company that I work with backend and college that I study.
+Entre meus estudos autodidatas dentro do Youtube, imersões de escolas como Alura e Rocketseat, cursos CRUD, até experiência em projetos pessoais com front-end e faculdade que estudo.
 
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript)
-![Node](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/React-000?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/React-Native-000?style=flat&logo=React-Native)
+![Angular](https://img.shields.io/badge/Angular-000?style=flat&logo=angular&logoColor=C3002F)
+![Node.JS](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
+![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=2D9EE9)
