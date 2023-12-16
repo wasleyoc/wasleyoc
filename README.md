@@ -21,7 +21,6 @@ Entre meus estudos autodidatas dentro do Youtube, imersões de escolas como Alur
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/React-000?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/React-Native-000?style=flat&logo=React-Native)
 ![Angular](https://img.shields.io/badge/Angular-000?style=flat&logo=angular&logoColor=C3002F)
 ![Node.JS](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git)
