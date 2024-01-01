@@ -1,4 +1,4 @@
-# Olá meus jovens 👋
+# Olá Amigos(a)! 👋
 
 <img align="right" src=".github/image.png" width="300"/> 
 
