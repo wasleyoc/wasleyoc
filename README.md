@@ -1,21 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD43D&lines=Wasley+aqui!+Prazer+em+conhece-lo(a)!+%E2%9A%A1)](https://git.io/typing-svg)<img alt="" title="Views" align="right" src="https://komarev.com/ghpvc/?username=wasleyfps&label=&style=flat-square&color=blueviolet" />
+# Olá meus jovens 👋
 
-📚 Engenharia de Software
+<img align="right" src=".github/image.png" width="300"/> 
 
-🌱 Estudando: **Javascript, Typescript, React, Nodejs, Python & SQL**
-
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/wasleyfps)
-[![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/305756890954989568)
-[![Mail](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](mailto://wasleyoliveiradecarvalho@gmail.com)
-[![Twitch](https://img.shields.io/badge/Twitch-black?style=flat-square&logo=twitch&logoColor=9146FF)](https://www.twitch.tv/wasleyfps)
-[![Steam](https://img.shields.io/badge/Steam-black?style=flat-square&logo=steam)](https://steamcommunity.com/id/wasleyfps)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://linkedin.com/in/wasleyfps)
+Me chamo Wasley Carvalho, tenho 26 anos, moro em Cândido Sales - Bahia, sou estudante bacharel em Engenharia de Software e atualmente sou desenvolvedor **Frontend**.
 
 
-
-
-
-## 💻 Todas as linguagens e ferramentas
+## 💻 Skills
 Entre meus estudos autodidatas dentro do Youtube, imersões de escolas como Alura e Rocketseat, cursos CRUD, até experiência em projetos pessoais com front-end e faculdade que estudo.
 
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
@@ -32,5 +22,19 @@ Entre meus estudos autodidatas dentro do Youtube, imersões de escolas como Alur
 ![Brave](https://img.shields.io/badge/Brave-black?style=flat-square&logo=brave) 
 [![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/wasleyfps)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=1572B6) 
+
+## 📫 Contatos
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/wasleyfps)
+[![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/305756890954989568)
+[![Mail](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](mailto://wasleyoliveiradecarvalho@gmail.com)
+[![Twitch](https://img.shields.io/badge/Twitch-black?style=flat-square&logo=twitch&logoColor=9146FF)](https://www.twitch.tv/wasleyfps)
+[![Steam](https://img.shields.io/badge/Steam-black?style=flat-square&logo=steam)](https://steamcommunity.com/id/wasleyfps)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://linkedin.com/in/wasleyfps)
+
+
+
+
+
+
 
 
