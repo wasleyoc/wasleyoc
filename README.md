@@ -1,13 +1,12 @@
 # Olá Amigos(a)! 👋
 
-<img align="right" src=".github/image.png" width="300"/> 
+<img align="right" src="image.png" width="300"/> 
 
-Me chamo Wasley Carvalho, tenho 26 anos, moro em Cândido Sales - Bahia, sou estudante bacharel em Engenharia de Software e atualmente sou desenvolvedor **Frontend**.
+Me chamo Wasley Carvalho, tenho 26 anos, moro em Cândido Sales - Bahia, sou estudante bacharel em **Engenharia de Software** e atualmente sou desenvolvedor **Frontend**.
 
+[![Discord Badge](https://img.shields.io/badge/Acesse%20minha%20comunidade%20no%20Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/JPS2bY6GVy)](https://discord.gg/7jvaNGEN6a)
 
 ## 💻 Skills
-Entre meus estudos autodidatas dentro do Youtube, imersões de escolas como Alura e Rocketseat, cursos CRUD, até experiência em projetos pessoais com front-end e faculdade que estudo.
-
 ![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/React-000?style=flat&logo=react)
