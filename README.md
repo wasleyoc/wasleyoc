@@ -9,7 +9,7 @@ Me chamo Wasley Carvalho, tenho 26 anos, moro em Cândido Sales - Bahia, sou est
 ## 💻 Skills
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nextjs,react,tailwind" />
   <img src="https://skillicons.dev/icons?i=linux,nodejs,mysql,git,github,vite,vercel,figma" />
 </div>
 
