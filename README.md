@@ -23,7 +23,3 @@ Me chamo Wasley Carvalho, tenho 26 anos, moro em Cândido Sales - Bahia, sou est
 
 
 
-
-
-
-
