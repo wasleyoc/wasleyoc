@@ -19,4 +19,3 @@ Me chamo Wasley Carvalho, tenho 26 anos, moro em Cândido Sales - Bahia, sou est
 [![Mail](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](mailto://wasleyoliveiradecarvalho@gmail.com)
 [![Twitch](https://img.shields.io/badge/Twitch-black?style=flat-square&logo=twitch&logoColor=9146FF)](https://www.twitch.tv/wasleyfps)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://linkedin.com/in/wasleyfps)
-
