@@ -2,7 +2,7 @@
 
 <img align="right" src="image.png" width="300"/> 
 
-Me chamo Wasley Carvalho, tenho 26 anos, atualmente estou em busca de uma oportunidade profissional como Desenvolvedor .Net Júnior Backend ou FullStack. Sou uma pessoa autodidata com rápido aprendizado e apaixonado pelo mundo da tecnologia. 
+Me chamo Wasley Carvalho, tenho 26 anos, atualmente estou em busca de uma oportunidade profissional como **Desenvolvedor .Net Júnior Backend ou FullStack**. Sou uma pessoa autodidata com rápido aprendizado e apaixonado pelo mundo da tecnologia. 
 
 [![Discord Badge](https://img.shields.io/badge/Acesse%20minha%20comunidade%20no%20Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/JPS2bY6GVy)](https://discord.gg/7jvaNGEN6a)
 
