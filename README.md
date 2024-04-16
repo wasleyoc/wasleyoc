@@ -8,7 +8,7 @@ Me chamo Wasley Carvalho, tenho 26 anos, atualmente estou em busca de uma oportu
 
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind,figma" />
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,vite,linux" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,docker,vite,linux" />
 </div>
 
 ## 📫 Contatos
