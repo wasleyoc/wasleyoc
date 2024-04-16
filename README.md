@@ -12,8 +12,9 @@ Me chamo Wasley Carvalho, tenho 26 anos, atualmente estou em busca de uma oportu
 </div>
 
 ## 📫 Contatos
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/wasleyfps)
-[![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/305756890954989568)
-[![Mail](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](mailto://wasleyoliveiradecarvalho@gmail.com)
-[![Twitch](https://img.shields.io/badge/Twitch-black?style=flat-square&logo=twitch&logoColor=9146FF)](https://www.twitch.tv/wasleyfps)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedIn&logoColor=0073B1)](https://linkedin.com/in/wasleyfps)
+[![Mail](https://img.shields.io/badge/Mail-black?style=flat-square&logo=gmail)](mailto://wasleyoliveiradecarvalho@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/305756890954989568)
+[![Twitch](https://img.shields.io/badge/Twitch-black?style=flat-square&logo=twitch&logoColor=9146FF)](https://www.twitch.tv/wasleyfps)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/wasleyfps)
+
