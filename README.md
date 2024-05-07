@@ -17,4 +17,3 @@ Me chamo Wasley Carvalho, tenho 26 anos, atualmente estou em busca de uma oportu
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)](https://discordapp.com/users/305756890954989568)
 [![Twitch](https://img.shields.io/badge/Twitch-black?style=flat-square&logo=twitch&logoColor=9146FF)](https://www.twitch.tv/wasleyfps)
 [![Twitter](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/wasleyfps)
-
