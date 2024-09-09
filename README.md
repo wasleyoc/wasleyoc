@@ -1,7 +1,7 @@
 # Olá, meu nome é Wasley! 👋
 
-- 💻 Desenvolvedor .NET Junior ou Fullstack
-- 🍃 Me aprofundando no framework .NET e suas vertentes
+- 💻 Desenvolvedor Fullstack
+- 🍃 Me aprofundando nos frameworks  e suas vertentes
 - 📚 Cursando Análise e Desenvolvimento de Sistemas - DESCOMPLICA
 - 📫 Contato: wasleyoliveiradecarvalho@gmail.com
 
@@ -17,5 +17,5 @@
 
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind,figma" />
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,docker,vite,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,docker,vite,linux" />
 </div>
