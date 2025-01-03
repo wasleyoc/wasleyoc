@@ -1,6 +1,6 @@
 # Olá, meu nome é Wasley! 👋
 
-- 💻 Desenvolvedor Fullstack
+- 💻 Desenvolvedor
 - 🍃 Me aprofundando nos frameworks  e suas vertentes
 - 📚 Cursando Análise e Desenvolvimento de Sistemas - DESCOMPLICA
 - 📫 Contato: wasleyoliveiradecarvalho@gmail.com
