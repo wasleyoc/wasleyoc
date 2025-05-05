@@ -21,25 +21,25 @@ Raramente realizo transmissões ao vivo de codificação 🎥, explorando novos 
 - 🏆 **Conquistas:** Conseguir meu Estágio Remoto.
 
 <div>
-    <a target='_blank' href="https://twitch.tv/wasleyfps">
+    <a target='_blank' href="https://twitch.tv/wasleyoc">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
     </a>
     <a target='_blank' href="https://kick.com/wasley">
         <img src="https://img.shields.io/badge/Kick-3ab010?style=for-the-badge&logo=Kick&logoColor=white">
     </a>
-    <a target='_blank' href="https://twitter.com/wasleyfps">
+    <a target='_blank' href="https://twitter.com/wasleyoc">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
-    <a target='_blank' href="https://instagram.com/wasleyfps">
+    <a target='_blank' href="https://instagram.com/wasleyoc">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a target='_blank' href="https://linkedin.com/in/wasleyfps">
+    <a target='_blank' href="https://linkedin.com/in/wasleyoc">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a target='_blank' href="https://dev.to/wasleyfps">
+    <a target='_blank' href="https://dev.to/wasleyoc">
         <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
     </a>
-    <a target='_blank' href="https://youtube.com/wasleyfps">
+    <a target='_blank' href="https://youtube.com/wasleyoc">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
     </a>
 </div>
