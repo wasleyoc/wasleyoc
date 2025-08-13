@@ -13,7 +13,7 @@ Raramente realizo transmissões ao vivo de codificação 🎥, explorando novos 
 ## 📝 Informações Detalhadas
 
 - 👤 **Nome:** Wasley Carvalho   
-- 🎂 **Idade:** 27 
+- 🎂 **Idade:** 28 
 - 📍 **Localização:** Cândido Sales - Bahia   
 - 💻 **Stack:** Javascript, Typescript, Java, Spring Boot.   
 - 📚 **Aprendizado Atual:**  Java ☕   
