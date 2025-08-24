@@ -1,7 +1,5 @@
 # 👋 Olá, visitante!
 
-😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim. 
-
 ## 🌟 Informações Públicas
 
 Meu nome é **Wasley Carvalho** (também conhecido(a) como **WaaS**). Atualmente, moro em **Cândido Sales - BA** e meu objetivo é ajudar outros desenvolvedores a alcançar seus sonhos e metas. 🚀
